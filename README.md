@@ -28,7 +28,7 @@ Diversos softwares, banco de dados e linguagens.
 
 🔭 &nbsp; Atualmente desenvolvendo um site para uma assessoria de casamento usando React para front-end e node, express para back-end.
 
-🌱 &nbsp; Devido a ser apaixonado por TI 
+### 🌱 &nbsp; Devido a ser apaixonado por TI 
 
 - Atualmente tenho aprimorando conhecimentos, participando de novos conteúdos tais como: 
 
@@ -52,14 +52,14 @@ Diversos softwares, banco de dados e linguagens.
    - Bootcamp (prática em AWS)
    - SemanaCloud (prática em AWS) 
 
-- Tecnologias/ linguagens atualmente aprimorando:
+### 🛠  &nbsp; Tecnologias/ linguagens atualmente aprimorando:
   - React, React Native, Node, Express javascript, typescript 
   - Estudando ambiente AWS   
 
 👯 &nbsp; Buscando colaborar com projetos que possam aprimorar conhecimentos 
   e novos desafios (mais confortável com ambiente de back-end, embora desejo também  colaborar com front-end e Mobile)
   
-📫 &nbsp; Contato: 
+### 📫 &nbsp; Contato: 
   - Email: miguel.duque@globo.com
   - phone: (11) 99904-0108
   - Linkedin: linkedin.com/in/miguel-duque-filho
