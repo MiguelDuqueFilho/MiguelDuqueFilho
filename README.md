@@ -30,7 +30,7 @@ Diversos softwares, banco de dados e linguagens.
 
 🌱 &nbsp; Devido a ser apaixonado por TI 
 - Atualmente tenho aprimorando conhecimentos, participando de diversos conteúdos
-  - **Rocketseat** em Front-End, Back-End, Mobile
+- **Rocketseat** em Front-End, Back-End, Mobile
   - Semana OmniStack 10  
   - Semana OmniStack 11        
   - Semana Next Level Week #1       
