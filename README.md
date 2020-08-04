@@ -26,28 +26,38 @@ Experiência em projetos de TI utilizando melhores práticas de Gerência de pro
 Diversos softwares, banco de dados e linguagens. 
 
 
-🔭 &nbsp; Atualmente desenvolvendo um site para uma assessoria de casamento usando React para front-end e node, express para back-end .
+🔭 &nbsp; Atualmente desenvolvendo um site para uma assessoria de casamento usando React para front-end e node, express para back-end.
 
 🌱 &nbsp; Devido a ser apaixonado por TI 
-- Atualmente tenho aprimorando conhecimentos, participando de diversos conteúdos
+
+- Atualmente tenho aprimorando conhecimentos, participando de novos conteúdos tais como: 
+
 - **Rocketseat** em Front-End, Back-End, Mobile
   - Semana OmniStack 10  
   - Semana OmniStack 11        
   - Semana Next Level Week #1       
   - Semana Next Level Week #2    
-      
-- Cloud da **Cloud Treinamentos** em ambiente **AWS**
-   - Bootcamp (AWS)
-   - SemanaCloud (AWS) 
 
+- Cursos Online da **Cod3r** com Leonardo Moura Leitão
+   - Entendendo TypeScript
+   - Curso de Web Moderno Completo com javaScript 2020 
+   - Curso de React + Redux 
+   
+- Cursos Online da **Hcode** 
+   - JavaScript Completo
+   - Curso  Completo de PHP 
+   - Bootstrap 4 - Curso Completo
+
+- Cloud da **Cloud Treinamentos** em ambiente **AWS**
+   - Bootcamp (prática em AWS)
+   - SemanaCloud (prática em AWS) 
 
 - Tecnologias/ linguagens atualmente aprimorando:
   - React, React Native, Node, Express javascript, typescript 
   - Estudando ambiente AWS   
 
-👯 &nbsp; Buscando colaborar com projetos que possam aprimorar conhecimentos e novos desafios (mais confortável com ambiente de back-end, embora desejo também  colaborar com front-end e Mobile)
-
-
+👯 &nbsp; Buscando colaborar com projetos que possam aprimorar conhecimentos 
+  e novos desafios (mais confortável com ambiente de back-end, embora desejo também  colaborar com front-end e Mobile)
   
 📫 &nbsp; Contato: 
   - Email: miguel.duque@globo.com
