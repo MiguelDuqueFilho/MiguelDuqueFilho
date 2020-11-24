@@ -37,6 +37,7 @@ Diversos softwares, banco de dados e linguagens.
   - Semana OmniStack 11        
   - Semana Next Level Week #1       
   - Semana Next Level Week #2    
+  - Semana Next Level Week #3    
 
 - Cursos Online da **Cod3r** com Leonardo Moura Leitão
    - Entendendo TypeScript
@@ -49,15 +50,16 @@ Diversos softwares, banco de dados e linguagens.
    - Bootstrap 4 - Curso Completo
 
 - Cloud da **Cloud Treinamentos** em ambiente **AWS**
+   - Aluno do programa de especialização AWS
    - Bootcamp (prática em AWS)
    - SemanaCloud (prática em AWS) 
 
 ### 🛠  &nbsp; Tecnologias/ linguagens atualmente aprimorando:
   - React, React Native, Node, Express javascript, typescript 
-  - Estudando ambiente AWS   
+  - Especializaçao em ambiente AWS   
 
 👯 &nbsp; Buscando colaborar com projetos que possam aprimorar conhecimentos 
-  e novos desafios (mais confortável com ambiente de back-end, embora desejo também  colaborar com front-end e Mobile)
+  e novos desafios tanto em desenvolvimento com projetos em Cloud
   
 ### 📫 &nbsp; Contato: 
   - Email: miguel.duque@globo.com
