@@ -59,7 +59,7 @@ Diversos softwares, banco de dados e linguagens.
   - Especializaçao em ambiente AWS   
 
 👯 &nbsp; Buscando colaborar com projetos que possam aprimorar conhecimentos 
-  e novos desafios tanto em desenvolvimento com projetos em Cloud
+  e novos desafios tanto em desenvolvimento como também em projetos em Cloud AWS
   
 ### 📫 &nbsp; Contato: 
   - Email: miguel.duque@globo.com
