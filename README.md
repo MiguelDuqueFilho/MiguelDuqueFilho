@@ -33,6 +33,7 @@ Diversos softwares, banco de dados e linguagens.
 - Atualmente tenho aprimorando conhecimentos, participando de novos conteúdos tais como: 
 
 - **Rocketseat** em Front-End, Back-End, Mobile
+  - Aluno da Rocketseat
   - Semana OmniStack 10  
   - Semana OmniStack 11        
   - Semana Next Level Week #1       
@@ -62,6 +63,6 @@ Diversos softwares, banco de dados e linguagens.
   e novos desafios tanto em desenvolvimento como também em projetos em Cloud AWS
   
 ### 📫 &nbsp; Contato: 
-  - Email: miguel.duque@globo.com
+  - Email: miguel.duque@lwmail.com.br
   - phone: (11) 99904-0108
   - Linkedin: linkedin.com/in/miguel-duque-filho
