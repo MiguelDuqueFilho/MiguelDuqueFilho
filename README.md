@@ -34,11 +34,15 @@ Diversos softwares, banco de dados e linguagens.
 
 - **Rocketseat** em Front-End, Back-End, Mobile
   - Aluno da Rocketseat
-  - Semana OmniStack 10  
-  - Semana OmniStack 11        
-  - Semana Next Level Week #1       
-  - Semana Next Level Week #2    
-  - Semana Next Level Week #3    
+  - Semana OmniStack 10
+  - Semana OmniStack 11
+  - Semana Next Level Week #1
+  - Semana Next Level Week #2
+  - Semana Next Level Week #3
+  - Semana Next Level Week #4
+  - Semana Next Level Week #5
+  - Semana Next Level Week Together
+  - Semana Next Level Week Heat
 
 - Cursos Online da **Cod3r** com Leonardo Moura Leitão
    - Entendendo TypeScript
