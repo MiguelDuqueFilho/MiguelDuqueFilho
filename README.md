@@ -67,6 +67,6 @@ Diversos softwares, banco de dados e linguagens.
   e novos desafios tanto em desenvolvimento como também em projetos em Cloud AWS
   
 ### 📫 &nbsp; Contato: 
-  - Email: miguel.duque@lwmail.com.br
+  - Email: miguel@duquebr.com
   - phone: (11) 99904-0108
   - Linkedin: linkedin.com/in/miguel-duque-filho
